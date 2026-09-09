@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rafikb75.github.io/lovable-ai-promo-cose/sitemap.xml
